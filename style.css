@@ -1,0 +1,36 @@
+body{
+    color: black;
+    text-align: center;
+}
+
+
+.container{
+    height : 70vh;
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+    font-size: 10vmin;
+    background-color: #00C1D3;
+}
+
+.msg-container{
+    font-size: 8vmin;
+    /* height: 500px;
+    text-align: center;
+    justify-content: center;
+    display: flex; */
+}
+
+.hide{
+    display: none;
+}
